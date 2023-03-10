@@ -1,0 +1,25 @@
+{
+    "blogData": [
+        {
+            "title": "My First Blog Post",
+            "date": "March 1, 2023",
+            "writer": "John Doe",
+            "imageSrc": "https://picsum.photos/id/235/500/200",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum sapien vel mauris tincidunt, ut vulputate risus rhoncus. Integer vel odio varius, auctor odio eget, lacinia turpis. Nulla facilisi. Praesent faucibus, dolor eget commodo ultricies, velit elit gravida ipsum, at pharetra mi nisi vel turpis. Quisque bibendum, est eget bibendum malesuada, neque sapien aliquam nisl, in tincidunt lectus nulla sit amet ante. Aliquam congue est ac metus tincidunt, eget ullamcorper ex euismod."
+        },
+        {
+            "title": "My Second Blog Post",
+            "date": "March 3, 2023",
+            "writer": "Jane Smith",
+            "imageSrc": "https://picsum.photos/id/236/500/200",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum, quam vel maximus faucibus, est dolor molestie nisi, nec suscipit urna sapien id lacus. Sed nec odio at velit hendrerit sagittis. Fusce venenatis, elit sed eleifend volutpat, sapien sapien feugiat mi, sit amet blandit nisl ipsum eget est. Ut id erat vitae ipsum tristique vehicula. In nec ex eget nulla interdum placerat. Aenean lobortis lectus a vestibulum pulvinar. Praesent sit amet placerat ante."
+        },
+        {
+            "title": "My Third Blog Post",
+            "date": "March 5, 2023",
+            "writer": "Bob Johnson",
+            "imageSrc": "https://picsum.photos/id/237/500/200",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non lacus non nisi sodales interdum id id mi. Ut commodo, ex id bibendum elementum, lorem enim semper tellus, ac faucibus sapien enim id elit. Donec euismod elit nec velit dignissim, sit amet dapibus lectus mattis. Nulla a lorem posuere, euismod eros sed, sodales metus. Suspendisse bibendum metus eget quam aliquet, eu molestie dolor blandit. Sed in odio euismod, dignissim risus a, efficitur sapien. Curabitur euismod velit at nunc euismod posuere. Praesent eu arcu vitae enim aliquet pharetra quis a turpis."
+        }
+    ]
+}
